@@ -1,0 +1,10 @@
+Ether / IP / UDP / DNS Qry b'config.teams.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'config.teams.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'config.teams.microsoft.com.'
+Ether / IP / UDP / DNS Ans b'config.teams.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'config.teams.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'config.teams.trafficmanager.net.'
+Ether / IPv6 / UDP 2402:3a80:2a5:fc99:b906:a2cc:9269:8789:49667 > 2603:1063:27:2::14:https / Raw
+Ether / IPv6 / UDP 2402:3a80:2a5:fc99:b906:a2cc:9269:8789:49667 > 2603:1063:27:2::14:https / Raw
+Ether / IPv6 / UDP 2603:1063:27:2::14:https > 2402:3a80:2a5:fc99:b906:a2cc:9269:8789:49667 / Raw
+Ether / IPv6 / UDP 2402:3a80:2a5:fc99:b906:a2cc:9269:8789:49667 > 2603:1063:27:2::14:https / Raw
